@@ -1,5 +1,4 @@
 # Python API Wrappers
-A list of Python API wrappers that I've used in personal projects.
 
 APIs aren't easy to use.
 APIs with Python *are* easy to use.
